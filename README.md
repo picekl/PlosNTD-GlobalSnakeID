@@ -4,7 +4,7 @@
 # An artificial intelligence model to identify snakes from across the world: Opportunities and challenges for global health and herpetology
 
 By Isabelle Bolon, [Lukas Picek](https://sites.google.com/view/picekl), Andrew M. Durso, Gabriel Alcoba, François Chappuis and Rafael Ruiz de Castañeda 
-[MAIL](mailto:lukaspicek@gmail.com?subject=[GitHub]%20DanishFungi2020%20Project).
+[MAIL](mailto:lukaspicek@gmail.com?subject=[GitHub-Plos]).
 
 ## Introduction
 
